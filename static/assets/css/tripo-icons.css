@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'tripo-icon';
+  src:  url('../fonts/tripo-icon.eot?uzh45i');
+  src:  url('../fonts/tripo-icon.eot?uzh45i#iefix') format('embedded-opentype'),
+    url('../fonts/tripo-icon.ttf?uzh45i') format('truetype'),
+    url('../fonts/tripo-icon.woff?uzh45i') format('woff'),
+    url('../fonts/tripo-icon.svg?uzh45i#tripo-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="tripo-icon-"], [class*=" tripo-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tripo-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tripo-icon-squares:before {
+  content: "\e913";
+}
+.tripo-icon-list-menu:before {
+  content: "\e914";
+}
+.tripo-icon-plus-symbol:before {
+  content: "\e912";
+}
+.tripo-icon-message:before {
+  content: "\e900";
+}
+.tripo-icon-phone-call:before {
+  content: "\e901";
+}
+.tripo-icon-placeholder:before {
+  content: "\e902";
+}
+.tripo-icon-suitcase:before {
+  content: "\e903";
+}
+.tripo-icon-plane-ticket:before {
+  content: "\e904";
+}
+.tripo-icon-hang-gliding:before {
+  content: "\e905";
+}
+.tripo-icon-paragliding:before {
+  content: "\e906";
+}
+.tripo-icon-sunset:before {
+  content: "\e907";
+}
+.tripo-icon-deer:before {
+  content: "\e908";
+}
+.tripo-icon-flag:before {
+  content: "\e909";
+}
+.tripo-icon-left-arrow:before {
+  content: "\e90a";
+}
+.tripo-icon-right-arrow:before {
+  content: "\e90b";
+}
+.tripo-icon-feedback:before {
+  content: "\e90c";
+}
+.tripo-icon-user-experience:before {
+  content: "\e90d";
+}
+.tripo-icon-reliability:before {
+  content: "\e90e";
+}
+.tripo-icon-tour-guide:before {
+  content: "\e90f";
+}
+.tripo-icon-avatar:before {
+  content: "\e910";
+}
+.tripo-icon-magnifying-glass:before {
+  content: "\e911";
+}
